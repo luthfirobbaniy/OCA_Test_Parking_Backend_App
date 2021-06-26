@@ -1,0 +1,1 @@
+{"plat_nomor":"dummy","warna":"dummy","tipe":"dummy","parking_lot":0,"time":0}

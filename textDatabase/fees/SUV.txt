@@ -1,0 +1,1 @@
+{"type":"SUV","first_hour_fee":25000}

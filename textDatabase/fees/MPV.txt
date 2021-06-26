@@ -1,0 +1,1 @@
+{"type":"MPV","first_hour_fee":35000}

@@ -1,0 +1,1 @@
+{"lot_num":2,"is_available":1}
